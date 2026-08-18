@@ -1,4 +1,4 @@
-t application that demonstrates candidate-to-job matching using CognoDB as a graph database.
+A spring Boot application that demonstrates candidate-to-job matching using CognoDB as a graph database.
 
 The application models Candidates, Skills, and Jobs as graph nodes and connects them using relationships. Cypher queries are then used to traverse the graph and identify jobs that match a candidate's skills.
 
